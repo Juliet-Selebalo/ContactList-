@@ -1,0 +1,5 @@
+"Juliet","Selebalo","+23058123456","tseleb200@caledonian.ac.uk","Personal","2017-10-31"
+"Sisekelo","Dlamini","+26712345678","sdlam200@caledonian.ac.uk","Business","2017-11-31"
+"Ariyike","Adetimehin","+25458123456","aadet200@caledonian.ac.uk","Business","2018-01-31"
+"Michael","Suleiman","+25458246810","msule200@caldonian.ac.uk","Personal","2018-03-31"
+"Fatuma","Ingabire","+258246810","finga200@caledonian.ac.uk","Personal","2016-05-31"
